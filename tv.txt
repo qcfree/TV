@@ -63,7 +63,7 @@ WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 西藏卫视,https://cntv.sbs/live?auth=2307100804&id=xzws
 海南卫视,https://cntv.sbs/live?auth=2307100804&id=hinws
 三沙卫视,https://cntv.sbs/live?auth=2307100804&id=ssws
-峨眉电影,http://182.136.139.230:4022/udp/239.93.0.252:5140
+峨眉影视,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
 其他,#genre#
 北京纪实科教,https://cntv.sbs/live?auth=2307100804&id=bjjskj
 五星体育,https://cntv.sbs/live?auth=2307100804&id=wxty
@@ -888,12 +888,7 @@ CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/
 CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 金马影院,hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-峨眉电影0,http://182.151.211.171:808/hls/58/index.m3u8
-峨眉电影1,http://60.255.49.202/live/emdygqH265_4000
-峨眉电影2,http://239.93.5.116:8696
-峨眉电影4K3,http://111.6.169.89/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
-峨眉电影,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-峨眉电影5,http://r.jdshipin.com/XIjta
+峨眉影视,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
 4K超高清电影.1080P,http://r.jdshipin.com/5DWJk
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
@@ -901,8 +896,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 华语影院,https://cntv.sbs/live?auth=2307100804&id=hyyy
 凤凰电影,https://cntv.sbs/live?auth=2307100804&id=fhdy
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-峨眉电影,http://r.jdshipin.com/XIjta
-峨眉电影.备用,http://r.jdshipin.com/vFgDS
 NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
 东森综合台,P2p://135.148.104.228:19806/88fe82e39e1b409294c51f5b346de0e1
 东森超视,P2p://135.148.104.228:19806/a1a5f1b22da74d458bf6cfff8c190c6f
