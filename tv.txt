@@ -1378,6 +1378,7 @@ TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a570
 粤语片台,mitv://generationnexxxt.com:19806/**b8e07cad61e518d7b
 
 轮播,#genre#
+许氏三杰[232],https://epg.112114.xyz/huya/11602033
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 华语电影,http://epg.112114.xyz/douyu/3928
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
