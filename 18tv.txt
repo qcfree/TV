@@ -1,4 +1,4 @@
-唉唉叫頻道_7521,#genre#
+唉唉叫頻道_7651,#genre#
 彩虹e臺,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹電影,http://162.19.247.76:22222/live/caihong2/index.m3u8
 JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
