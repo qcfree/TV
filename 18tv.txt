@@ -378,7 +378,7 @@ cawd-002桜,https://t10.cdn2020.com:12335/video/m3u8/2021/08/19/60877c61/index.m
 cawd-260桜,https://t10.cdn2020.com:12335/video/m3u8/2021/08/27/90d4c78b/index.m3u8
 cawd-126伊藤舞雪,https://t5s.cdn2020.com/video/m3u8/2020/11/03/7be63c6c/index.m3u8
 cawd-300桜,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/0f774466/index.m3u8
-会员频道3_7651,#genre#
+
 新麻豆傳媒1.0,https://video2.51daao.com/btt1/2021/04/20210419/zrgSC5Db/index.m3u8
 新麻豆傳媒10,https://video2.51daao.com/btt1/2021/04/20210415/GI29Q4JK/index.m3u8
 新麻豆傳媒11,https://video2.51daao.com/btt1/2021/04/20210413/VwjW8jk9/index.m3u8
